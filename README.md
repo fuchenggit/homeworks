@@ -17,7 +17,4 @@
 
 <br>
 <hr>
-<style>
-  p {text-align:center}
-  </style>
-  Copyright 2019
+  版权所有2019
